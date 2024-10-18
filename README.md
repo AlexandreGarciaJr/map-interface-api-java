@@ -1,6 +1,6 @@
-### APIs com funcionamentos utilizando Collections
+### APIs com funcionamentos utilizando Set Interface
 
-- #### Projeto de estudo da Dio utilizando collections
+- #### Projeto de estudo da Dio utilizando Set Interface
 
 ### Tecnologias:
 
@@ -8,7 +8,6 @@
 
 ## Funcionalidades
 
-- Carrinho de compras com cálculo total
-- Listagem de tarefas com ordenação
-- Listagem de pessoas com ordenação
-- Listagem de livros com busca filtrada
+- Lista de Convidados com ordenação
+- Cadastro e Registro de produtos e filtragem
+- LAgenda de contatos com filtragem
