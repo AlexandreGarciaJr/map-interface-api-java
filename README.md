@@ -1,6 +1,6 @@
-### APIs com funcionamentos utilizando Set Interface
+### APIs com funcionamentos utilizando Map Interface
 
-- #### Projeto de estudo da Dio utilizando Set Interface
+- #### Projeto de estudo da Dio utilizando Map Interface
 
 ### Tecnologias:
 
@@ -8,6 +8,7 @@
 
 ## Funcionalidades
 
-- Lista de Convidados com ordenação
-- Cadastro e Registro de produtos e filtragem
-- LAgenda de contatos com filtragem
+- Listagem de agenda de contatos
+- Cadastro de Eventos com ordenação
+- Cadastro de Livros com ordenação
+- Cadastro de Produtos com ordenação e pesquisa por nome
